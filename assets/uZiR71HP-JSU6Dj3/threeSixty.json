@@ -1,0 +1,119 @@
+{
+  "version": "3.104.35448.0",
+  "course_id": "6TazPac4xfZ",
+  "title": "portfolio-design",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Gestalt"
+    },
+    {
+      "title": "Color Theory"
+    },
+    {
+      "title": "Point, Line, Shape"
+    },
+    {
+      "title": "Texture or Pattern"
+    },
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6qm83UeAfVe",
+      "title": "Intro Slide",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "61LOcZcom70",
+      "title": "Intro Slide",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6Gndj6xcofj",
+      "title": "Saturation",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "6Gj4akn2o7i",
+      "title": "Hue",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "5iHZMU21LSh",
+      "title": "Brightness",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "6ktdTNoe8b8",
+      "title": "Untitled Slide",
+      "scene_index": "2.4"
+    },
+    {
+      "id": "6UtHvgRhMtU",
+      "title": "Dimensions",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "5oPacPYvxu5",
+      "title": "Untitled Slide",
+      "scene_index": "4.1"
+    },
+    {
+      "id": "6TxJywEViMr",
+      "title": "Texture Pattern",
+      "scene_index": "4.2"
+    },
+    {
+      "id": "6CM59QL2kAY",
+      "title": "Texture Pattern",
+      "scene_index": "4.3"
+    },
+    {
+      "id": "6U6pHLYWFxR",
+      "title": "Texture Pattern",
+      "scene_index": "4.4"
+    },
+    {
+      "id": "5goqxhlE4o7",
+      "title": "Texture Pattern",
+      "scene_index": "4.5"
+    },
+    {
+      "id": "6q3xQ5cJC3O",
+      "title": "Texture Pattern",
+      "scene_index": "4.6"
+    },
+    {
+      "id": "5rihOSJ0TCt",
+      "title": "Texture Pattern",
+      "scene_index": "4.7"
+    },
+    {
+      "id": "6dWvxyd1UMe",
+      "title": "Texture Pattern",
+      "scene_index": "4.8"
+    },
+    {
+      "id": "6PL0rBMs3Sj",
+      "title": "Untitled Slide",
+      "scene_index": "4.9"
+    },
+    {
+      "id": "6CgxjUzSJYg",
+      "title": "Untitled Slide",
+      "scene_index": "5.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 611
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}

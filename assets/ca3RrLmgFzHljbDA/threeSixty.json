@@ -1,0 +1,50 @@
+{
+  "version": "3.104.35448.0",
+  "course_id": "6TazPac4xfZ",
+  "title": "portfolio-design",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Intro Scene"
+    },
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6qm83UeAfVe",
+      "title": "Intro Slide",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "61LOcZcom70",
+      "title": "Intro Slide",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6Gndj6xcofj",
+      "title": "Saturation",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "6Gj4akn2o7i",
+      "title": "Hue",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "5iHZMU21LSh",
+      "title": "Brightness",
+      "scene_index": "2.3"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 611
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
